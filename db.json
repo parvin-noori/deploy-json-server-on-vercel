@@ -2,49 +2,49 @@
   "customers": [
     {
       "id": 1,
-      "image": "/assets/imgs/FinancialAdvisor.png",
+      "image": "assets/imgs/FinancialAdvisor.png",
       "title": "financial advisor",
       "name": "starla virgun",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis ultricies at eleifend proin. Congue nibh nulla malesuada ultricies nec quam "
     },
     {
       "id": 2,
-      "image": "/assets/imgs/customer2.png",
+      "image": "assets/imgs/customer2.png",
       "title": "financial advisor",
       "name": "starla virgun",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis ultricies at eleifend proin. Congue nibh nulla malesuada ultricies nec quam "
     },
     {
       "id": 3,
-      "image": "/assets/imgs/customer3.png",
+      "image": "assets/imgs/customer3.png",
       "title": "financial advisor",
       "name": "starla virgun",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis ultricies at eleifend proin. Congue nibh nulla malesuada ultricies nec quam "
     },
     {
       "id": 4,
-      "image": "/assets/imgs/customer4.png",
+      "image": "assets/imgs/customer4.png",
       "title": "financial advisor",
       "name": "starla virgun",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis ultricies at eleifend proin. Congue nibh nulla malesuada ultricies nec quam "
     },
     {
       "id": 5,
-      "image": "/assets/imgs/customer5.png",
+      "image": "assets/imgs/customer5.png",
       "title": "financial advisor",
       "name": "starla virgun",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis ultricies at eleifend proin. Congue nibh nulla malesuada ultricies nec quam "
     },
     {
       "id": 6,
-      "image": "/assets/imgs/customer6.png",
+      "image": "assets/imgs/customer6.png",
       "title": "financial advisor",
       "name": "starla virgun",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis ultricies at eleifend proin. Congue nibh nulla malesuada ultricies nec quam "
     },
     {
       "id": 7,
-      "image": "/assets/imgs/customer7.png",
+      "image": "assets/imgs/customer7.png",
       "title": "financial advisor",
       "name": "starla virgun",
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis ultricies at eleifend proin. Congue nibh nulla malesuada ultricies nec quam "
@@ -55,25 +55,25 @@
       "id": 1,
       "name": "betran komar",
       "title": "head chef",
-      "img": "/assets/imgs/chef1.png"
+      "img": "assets/imgs/chef1.png"
     },
     {
       "id": 2,
       "name": "ferry sauwi",
       "title": "chef",
-      "img": "/assets/imgs/chef2.png"
+      "img": "assets/imgs/chef2.png"
     },
     {
       "id": 3,
       "name": "iswan dracho",
       "title": "chef",
-      "img": "/assets/imgs/chef1.png"
+      "img": "assets/imgs/chef1.png"
     },
     {
       "id": 4,
       "name": "iswan dracho",
       "title": "chef",
-      "img": "/assets/imgs/chef1.png"
+      "img": "assets/imgs/chef1.png"
     }
   ],
   "categories": [
@@ -102,7 +102,7 @@
       "price": 12.05,
       "category": "dinner",
       "rating": 4,
-      "img": "/assets/imgs/italian-pasta.png"
+      "img": "assets/imgs/italian-pasta.png"
     },
     {
       "id": 2,
@@ -111,7 +111,7 @@
       "price": 12.05,
       "category": "dinner",
       "rating": 4,
-      "img": "/assets/imgs/Gnocchi.png"
+      "img": "assets/imgs/Gnocchi.png"
     },
     {
       "id": 3,
@@ -120,7 +120,7 @@
       "price": 12.05,
       "category": "lunch",
       "rating": 4,
-      "img": "/assets/imgs/Rovioli.png"
+      "img": "assets/imgs/Rovioli.png"
     },
     {
       "id": 4,
@@ -129,7 +129,7 @@
       "price": 12.05,
       "category": "lunch",
       "rating": 4,
-      "img": "/assets/imgs/PenneAllaVodak.png"
+      "img": "assets/imgs/PenneAllaVodak.png"
     },
     {
       "id": 5,
@@ -138,7 +138,7 @@
       "price": 12.05,
       "category": "dessert",
       "rating": 4,
-      "img": "/assets/imgs/Risoto.png"
+      "img": "assets/imgs/Risoto.png"
     },
     {
       "id": 6,
@@ -147,7 +147,7 @@
       "price": 12.05,
       "category": "dinner",
       "rating": 4,
-      "img": "/assets/imgs/SplitzaSignature.png"
+      "img": "assets/imgs/SplitzaSignature.png"
     },
     {
       "id": 7,
@@ -156,7 +156,7 @@
       "price": 12.05,
       "category": "dinner",
       "rating": 4,
-      "img": "/assets/imgs/italian-pasta.png"
+      "img": "assets/imgs/italian-pasta.png"
     },
     {
       "id": 8,
@@ -165,7 +165,7 @@
       "price": 12.05,
       "category": "dinner",
       "rating": 4,
-      "img": "/assets/imgs/Gnocchi.png"
+      "img": "assets/imgs/Gnocchi.png"
     }
   ],
   "users": [
