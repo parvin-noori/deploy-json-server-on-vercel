@@ -5,6 +5,8 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const auth = require("json-server-auth"); // اضافه کردن json-server-auth
 
+server.db = router.db; // اتصال پایگاه داده به سرور
+
 server.use(middlewares);
 // Add this before server.use(router)
 server.use(
@@ -16,11 +18,6 @@ server.use(
 
 // استفاده از json-server-auth به عنوان middleware
 const rules = auth.rewriter({
-  // قاعده‌های احراز هویت را اینجا مشخص کنید
-  // برای مثال:
-  // "posts": 600,
-  // "comments": 640,
-  // "users": 640,
   users: 600, // خواندن و نوشتن
 });
 
